@@ -4,7 +4,9 @@
 #### this is `<h4>` text
 ##### this is `<h5>` text
 ###### this is `<h6>` text
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Google]([https://storage.googleapis.com/gd-prod/images/f4f4bc5f-904a-4b61-972f-c403bc060679.799a99c1196c2fd4.webp])
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
